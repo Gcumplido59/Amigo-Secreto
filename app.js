@@ -43,3 +43,15 @@ function sortearAmigo() {
     }
     
 }
+
+function resetear() {
+    if (listaNombres.length === 0) {
+        alert("No hay nombres para borrar");
+        return;
+    } else {
+    listaNombres = [];
+    actualizarLista();
+    asignarTextoElemento("resultado", "");
+    return;
+    }
+}
