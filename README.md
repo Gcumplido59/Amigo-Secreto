@@ -1,5 +1,5 @@
 # Amigo-Secreto
-una proyecto donde metes una cantidad de nombres y aleatoriamente esdcoge a uno
+Un proyecto donde metes una cantidad de nombres y aleatoriamente escoge a uno
 
 -Para probar el proyecto solo hace falta 
 - descargar los archivos
